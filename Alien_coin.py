@@ -1,15 +1,15 @@
 import pygame
 
-# To randomize coin placement
+# Randomizar a colocação de moedas
 from random import randint
 
-# To find your assets
+# Para encontrar seus ativos
 from pathlib import Path
 
 # For type hinting
 from typing import Tuple
 
-# Set the width and height of the output window, in pixels
+# Defina a largura e a altura da janela de saída, em pixels
 WIDTH = 800
 HEIGHT = 600
 
